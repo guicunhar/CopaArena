@@ -1,0 +1,15 @@
+body{
+    background: rgb(246, 255, 0);
+}
+
+header{
+    font: 30px Courier;
+    color: black;
+    text-align: center;
+
+}
+
+footer{
+    text-align: center;
+    font-style: italic;
+}
