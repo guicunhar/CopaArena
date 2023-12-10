@@ -1,10 +1,10 @@
 body{
-    background: rgb(246, 255, 0);
+    background: rgb(105, 105, 105);
 }
 
 header{
     font: 30px Courier;
-    color: black;
+    color: white;
     text-align: center;
 
 }
